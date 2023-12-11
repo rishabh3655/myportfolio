@@ -256,6 +256,10 @@ p {
     * {
         background-color: gold;
     }
+.devpic {
+        display:none;
+
+    }
 }
 
 /* .sidebar{
@@ -281,9 +285,6 @@ p {
     font-size: 10px;
 }
 
-.devpic {
-    display:none;
-}
 
 .intro .blogContainer,.contactform{
     margin: 50px 8px;
